@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7e6631cb.css",
-    "main.js": "/react-portfolio/static/js/main.1e7ff48b.js",
+    "main.css": "/react-portfolio/static/css/main.1e682e55.css",
+    "main.js": "/react-portfolio/static/js/main.eb04acbc.js",
     "static/media/netflix.png": "/react-portfolio/static/media/netflix.c9496cb77a6f380c5b01.png",
     "static/media/development.png": "/react-portfolio/static/media/development.748b1d02d5fa7d58a907.png",
     "static/media/odp.png": "/react-portfolio/static/media/odp.9e1ab1ff816a1c534556.png",
@@ -24,11 +24,11 @@
     "static/media/python.png": "/react-portfolio/static/media/python.f7f12e1bf59e577656a2.png",
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
-    "main.7e6631cb.css.map": "/react-portfolio/static/css/main.7e6631cb.css.map",
-    "main.1e7ff48b.js.map": "/react-portfolio/static/js/main.1e7ff48b.js.map"
+    "main.1e682e55.css.map": "/react-portfolio/static/css/main.1e682e55.css.map",
+    "main.eb04acbc.js.map": "/react-portfolio/static/js/main.eb04acbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e6631cb.css",
-    "static/js/main.1e7ff48b.js"
+    "static/css/main.1e682e55.css",
+    "static/js/main.eb04acbc.js"
   ]
 }
