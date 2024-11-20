@@ -1,0 +1,63 @@
+[
+    {
+      "name": "HTML",
+      "image": "html.svg"
+    },
+    {
+      "name": "JavaScript",
+      "image": "javascript.svg"
+    },
+    {
+      "name": "React JS",
+      "image": "react.svg"
+    },
+    {
+      "name": "Node js",
+      "image": "nodejs.svg"
+    },
+    {
+      "name": "Python",
+      "image": "python.svg"
+    },
+    {
+      "name": "Wordpress",
+      "image": "wordpress.svg"
+    },
+    {
+      "name": "Django",
+      "image": "django.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "bootstrap.svg"
+    },
+    {
+      "name": "MySQL",
+      "image": "mysql.svg"
+    },
+    {
+      "name": "MongoDB",
+      "image": "mongoDB.svg"
+    },
+    {
+      "name": "GitHub",
+      "image": "git.svg"
+    },
+    {
+      "name": "Figma",
+      "image": "figma.svg"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "tailwind.svg"
+    },
+    {
+      "name": "Scss",
+      "image": "scss.svg"
+    },
+    {
+      "name": "Laravel",
+      "image": "laravel.svg"
+    }
+  ]
+  

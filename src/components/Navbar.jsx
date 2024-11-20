@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
@@ -8,15 +8,36 @@ import { Link } from 'react-scroll';
 const Navbar = () => {
   const [nav, setNav] = useState(false)
   const handleClick = () => setNav(!nav)
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    // Function to handle the scroll event
+    const handleScroll = () => {
+      // Check if window scroll is greater than 100px
+      if (window.scrollY > 100) {
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
+    };
+
+    // Add event listener for scroll
+    window.addEventListener('scroll', handleScroll);
+
+    // Cleanup event listener on component unmount
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
+    <div className={`fixed w-full h-[80px] flex justify-between items-center px-4  text-gray-300 z-10 ${scrolled ? 'bg-transparent backdrop-blur-sm' : 'bg-transparent' }`}>
       <div>
         <img src={adnaj} alt="Logo-image" className='rounded-full' style={{ width: '50px' }} />
       </div>
       {/* menu */}
 
-      <ul className='hidden md:flex'>
+      <ul className='hidden md:flex text-white'>
         <li>
           <Link to='home' smooth={true} duration={500}>
             Home
@@ -86,12 +107,12 @@ const Navbar = () => {
 
 
       {/* social icons */}
-      <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
+      <div className='hidden lg:flex lg:h-[100vh] lg:justify-center fixed flex-col top-0 left-0'>
         <ul>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300' target="_blank"
-              href='https://www.linkedin.com/in/muhammedadnaj/'
+              href='https://www.linkedin.com/in/adnaj/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -107,7 +128,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href="mailto:adnajnaju01@gmail.com"
+              href="mailto:adnajemail@gmail.com"
             >
               Email <HiOutlineMail size={30} />
 
