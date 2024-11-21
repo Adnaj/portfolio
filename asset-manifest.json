@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dd93157d.css",
-    "main.js": "/portfolio/static/js/main.3bd787d2.js",
+    "main.js": "/portfolio/static/js/main.a969775e.js",
     "static/media/annamonica.png": "/portfolio/static/media/annamonica.915b3b364ccd15aa3425.png",
     "static/media/pca.png": "/portfolio/static/media/pca.fc10ade017d2bb1ccafe.png",
     "static/media/mejestic.png": "/portfolio/static/media/mejestic.768cbd565000588071c3.png",
@@ -26,6 +26,7 @@
     "static/media/learnersqatar.png": "/portfolio/static/media/learnersqatar.6bce6c315c3c6a82f58d.png",
     "static/media/mbaprogram.png": "/portfolio/static/media/mbaprogram.65b6303747aca5924d0a.png",
     "static/media/learnersbusinessschool.png": "/portfolio/static/media/learnersbusinessschool.bcd12f4975c6867ad669.png",
+    "static/media/muhammed_Adnaj.pdf": "/portfolio/static/media/muhammed_Adnaj.dd3421923f28f3d78614.pdf",
     "static/media/pablo.png": "/portfolio/static/media/pablo.8747838e71db959d6a58.png",
     "static/media/pythonbull.png": "/portfolio/static/media/pythonbull.cc9650a283c4fb3b4438.png",
     "static/media/hero.svg": "/portfolio/static/media/hero.8f9190d875c91d5c4a5000b756b6f940.svg",
@@ -53,10 +54,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/materialui.svg": "/portfolio/static/media/materialui.d7f5c38f45cba4d9717d.svg",
     "main.dd93157d.css.map": "/portfolio/static/css/main.dd93157d.css.map",
-    "main.3bd787d2.js.map": "/portfolio/static/js/main.3bd787d2.js.map"
+    "main.a969775e.js.map": "/portfolio/static/js/main.a969775e.js.map"
   },
   "entrypoints": [
     "static/css/main.dd93157d.css",
-    "static/js/main.3bd787d2.js"
+    "static/js/main.a969775e.js"
   ]
 }
