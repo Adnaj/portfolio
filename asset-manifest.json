@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dd93157d.css",
-    "main.js": "/portfolio/static/js/main.13870dee.js",
+    "main.js": "/portfolio/static/js/main.de9a9050.js",
     "static/media/annamonica.png": "/portfolio/static/media/annamonica.915b3b364ccd15aa3425.png",
     "static/media/pca.png": "/portfolio/static/media/pca.fc10ade017d2bb1ccafe.png",
     "static/media/mejestic.png": "/portfolio/static/media/mejestic.768cbd565000588071c3.png",
@@ -23,19 +23,19 @@
     "static/media/lealtainternational.png": "/portfolio/static/media/lealtainternational.db35f1832753adc069a8.png",
     "static/media/upcarrera.png": "/portfolio/static/media/upcarrera.c601205b8a71856b6cd9.png",
     "static/media/edubims.png": "/portfolio/static/media/edubims.a5a35f36d449ac5061bd.png",
+    "static/media/MUHAMMED_ADNAJ.pdf": "/portfolio/static/media/MUHAMMED_ADNAJ.58cbc36751b3fa6e6c34.pdf",
     "static/media/learnersqatar.png": "/portfolio/static/media/learnersqatar.6bce6c315c3c6a82f58d.png",
     "static/media/mbaprogram.png": "/portfolio/static/media/mbaprogram.65b6303747aca5924d0a.png",
-    "static/media/MuhammedAdnaj.pdf": "/portfolio/static/media/MuhammedAdnaj.1b63ce2d2931212c2ed5.pdf",
     "static/media/learnersbusinessschool.png": "/portfolio/static/media/learnersbusinessschool.bcd12f4975c6867ad669.png",
     "static/media/pablo.png": "/portfolio/static/media/pablo.8747838e71db959d6a58.png",
     "static/media/pythonbull.png": "/portfolio/static/media/pythonbull.cc9650a283c4fb3b4438.png",
-    "static/media/hero.svg": "/portfolio/static/media/hero.8f9190d875c91d5c4a5000b756b6f940.svg",
+    "static/media/hero.svg": "/portfolio/static/media/hero.25dbd1ab1866f742ca83f5d604da3db7.svg",
     "static/media/aws.svg": "/portfolio/static/media/aws.ef6fb669b0a703b10cc2.svg",
     "static/media/react.svg": "/portfolio/static/media/react.c3a0b34aae466451a911.svg",
     "static/media/mysql.svg": "/portfolio/static/media/mysql.61d16d6438ce80c593a1.svg",
     "static/media/nodejs.svg": "/portfolio/static/media/nodejs.51fb0cf6ccda653f867a.svg",
     "static/media/sqlite.svg": "/portfolio/static/media/sqlite.28655328870dea66f1c5.svg",
-    "static/media/laravel.svg": "/portfolio/static/media/laravel.1270c0b49f32f790e47f.svg",
+    "static/media/laravel.svg": "/portfolio/static/media/laravel.a48cedbb72f3b578df33.svg",
     "static/media/wordpress.svg": "/portfolio/static/media/wordpress.f39aa81ef001e6818aec.svg",
     "static/media/nextJS.svg": "/portfolio/static/media/nextJS.330fb71cbedf3482d2a7.svg",
     "static/media/mongoDB.svg": "/portfolio/static/media/mongoDB.4428e2ce754003752672.svg",
@@ -43,7 +43,7 @@
     "static/media/typescript.svg": "/portfolio/static/media/typescript.f66836b8961d019a6f63.svg",
     "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.3b3ab2cfe7cdf9d8eb41.svg",
     "static/media/vitejs.svg": "/portfolio/static/media/vitejs.11f3d8993112a5a70f1d.svg",
-    "static/media/scss.svg": "/portfolio/static/media/scss.75b59ba2b55fe30cb293.svg",
+    "static/media/scss.svg": "/portfolio/static/media/scss.7747d4182be285f9346b.svg",
     "static/media/git.svg": "/portfolio/static/media/git.2d7df16e58dae6c26bba.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.f84ec7103324dc7e616d.svg",
     "static/media/tailwind.svg": "/portfolio/static/media/tailwind.01daca9bb655244e1250.svg",
@@ -54,10 +54,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/materialui.svg": "/portfolio/static/media/materialui.d7f5c38f45cba4d9717d.svg",
     "main.dd93157d.css.map": "/portfolio/static/css/main.dd93157d.css.map",
-    "main.13870dee.js.map": "/portfolio/static/js/main.13870dee.js.map"
+    "main.de9a9050.js.map": "/portfolio/static/js/main.de9a9050.js.map"
   },
   "entrypoints": [
     "static/css/main.dd93157d.css",
-    "static/js/main.13870dee.js"
+    "static/js/main.de9a9050.js"
   ]
 }
