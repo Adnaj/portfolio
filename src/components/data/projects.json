@@ -1,5 +1,65 @@
 [
     {
+      "name": "Kidgage",
+      "image": "kidgage.png",
+      "github": "",
+      "live": "https://www.kidgage.com/"
+    },
+    {
+      "name": "QatarCinema",
+      "image": "qatarcinema.png",
+      "github": "",
+      "live": "https://qatarcinemas.com/"
+    },
+    {
+      "name": "KAYA",
+      "image": "kaya.png",
+      "github": "",
+      "live": "https://www.kaya.qa/"
+    },
+    {
+      "name": "Mana Law Firm",
+      "image": "manalawfirm.png",
+      "github": "",
+      "live": "https://manalawfirm.com/"
+    },
+    {
+      "name": "NextMove Holding",
+      "image": "nmholding.png",
+      "github": "",
+      "live": "https://www.nmholding.com/"
+    },
+    {
+      "name": "podbabies",
+      "image": "podbabies.png",
+      "github": "",
+      "live": "https://podbabies.qa/"
+    },
+    {
+      "name": "Watch-Research",
+      "image": "watch.png",
+      "github": "",
+      "live": "https://www.watch-research.com/"
+    },
+    {
+      "name": "Maven Technologies",
+      "image": "maven.png",
+      "github": "",
+      "live": "https://www.maven.com.qa/"
+    },
+    {
+      "name": "Rolacc",
+      "image": "rolacc.png",
+      "github": "",
+      "live": "https://www.rolacc.qa/"
+    },
+    {
+      "name": "Gopac",
+      "image": "gopac.png",
+      "github": "",
+      "live": "https://www.gopacnetwork.org/"
+    },
+    {
       "name": "DOstudio",
       "image": "dostudio.png",
       "github": "",

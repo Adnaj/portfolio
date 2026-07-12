@@ -17,15 +17,12 @@ const Home = () => {
           Muhammed Adnaj
         </h1>
         <h2 className="text-2xl sm:text-5xl font-bold text-white">
-          I'm a Professional Software Developer.
+          Full stack Developer.
         </h2>
         <p className="text-[#e5e7eb] sm:text-[1rem] text-[12px]  py-4 max-w-[700px]">
-          Dedicated and self-taught software developer with a proven ability to
-          quickly learn and adapt to emerging technologies. Known for a strong
-          work ethic, commitment to excellence, and meticulous attention to
-          tracking and delivering results. Thrives in collaborative team
-          environments while equally capable of working independently to achieve
-          objectives with precision and reliability.
+          Results-driven Full Stack Developer with 5 years of experience architecting, developing, and delivering scalable web applications, enterprise platforms, and customer-focused digital solutions. Specialized in building modern frontend ecosystems with React.js, Next.js, and JavaScript, complemented by robust backend development using Node.js, Python, Django, and RESTful APIs.
+
+          Experienced in designing high-performance applications, developing secure and maintainable backend architectures, optimizing database solutions with MySQL and PostgreSQL, and deploying cloud-based systems using AWS and modern DevOps practices. Strong expertise in API integrations, CMS development, WordPress customization, performance optimization, and creating seamless user experiences across web platforms.
         </p>
 
         <div>

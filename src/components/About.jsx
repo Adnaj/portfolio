@@ -17,11 +17,7 @@ const About = () => {
                         <p>Hi. I'm Adnaj, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I am passionate about building excellent software that improves
-                            the lives of those around me. I specialize in creating software
-                            for clients ranging from individuals and small-businesses all the
-                            way to large enterprise corporations. What would you do if you had
-                            a software expert available at your fingertips?</p>
+                        <p>Proven ability to transform complex business requirements into reliable, scalable, and user-centric software solutions while collaborating with cross-functional teams to drive digital transformation and operational efficiency. Passionate about writing clean, efficient code and leveraging emerging technologies to build impactful products that deliver measurable business value.</p>
                     </div>
                 </div>
             </div>

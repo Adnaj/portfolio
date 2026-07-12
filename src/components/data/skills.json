@@ -12,12 +12,12 @@
       "image": "react.svg"
     },
     {
-      "name": "Node js",
-      "image": "nodejs.svg"
-    },
-    {
       "name": "Python",
       "image": "python.svg"
+    },
+    {
+      "name": "Node js",
+      "image": "nodejs.svg"
     },
     {
       "name": "Wordpress",
@@ -34,6 +34,10 @@
     {
       "name": "MySQL",
       "image": "mysql.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "postgresql.svg"
     },
     {
       "name": "MongoDB",
@@ -58,6 +62,14 @@
     {
       "name": "Laravel",
       "image": "laravel.svg"
+    },
+    {
+      "name": "AWS",
+      "image": "aws.svg"
+    },
+    {
+      "name": "DigitalOcean",
+      "image": "digitalocean.svg"
     }
   ]
   
