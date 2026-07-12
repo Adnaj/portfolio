@@ -34,7 +34,7 @@ const Navbar = () => {
   return (
     <div className={`fixed w-full h-[80px] flex justify-between items-center px-4  text-gray-300 z-10 ${scrolled ? 'bg-transparent backdrop-blur-sm' : 'bg-transparent' }`}>
       <div>
-        <img src={adnaj} alt="Logo-image" className='rounded-full' style={{ width: '50px' }} />
+        <img src={adnaj} alt="Adnaj" className='rounded-full' style={{ width: '50px' }} />
       </div>
       {/* menu */}
 
@@ -112,7 +112,7 @@ const Navbar = () => {
         <ul>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
-              className='flex justify-between items-center w-full text-gray-300' target="_blank"
+              className='flex justify-between items-center w-full text-gray-300' target="_blank" rel="noopener noreferrer"
               href='https://www.linkedin.com/in/adnaj/'
             >
               Linkedin <FaLinkedin size={30} />
@@ -120,7 +120,7 @@ const Navbar = () => {
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
-              className='flex justify-between items-center w-full text-gray-300' target="_blank"
+              className='flex justify-between items-center w-full text-gray-300' target="_blank" rel="noopener noreferrer"
               href='https://github.com/Adnaj'
             >
               Github <FaGithub size={30} />
@@ -128,7 +128,7 @@ const Navbar = () => {
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
-              className='flex justify-between items-center w-full text-gray-300'
+              className='flex justify-between items-center w-full text-gray-300' rel="noopener noreferrer"
               href="mailto:adnajmuhammed@gmail.com"
             >
               Email <HiOutlineMail size={30} />

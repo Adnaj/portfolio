@@ -42,6 +42,7 @@ const Home = () => {
                 <a
                   className="flex justify-between items-center w-full text-gray-300"
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://github.com/Adnaj"
                 >
                   <FaGithub size={30} />
